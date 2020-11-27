@@ -1,0 +1,60 @@
+
+.list-wrapper{
+
+background-color:#EDEDED;
+}
+#images{
+  margin:10px;
+}
+.background_text{
+  font-weight: 500;
+  font-size: 18px;
+}
+#works{
+  font-size: 10px;
+  margin: 20px;
+  text-align: justify;
+
+}
+#impactstories_text{
+ padding-top: -40px;
+ font-size: 18px;
+}
+#pagination-container{
+  align-items: center;
+  margin-left: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: 20px;
+}
+
+ @media only screen and (min-width:768px){
+       #pagination-container{
+         align-items: center;
+         padding-top: 30px;
+         padding-bottom: 30px;
+         margin-left: 50em;
+       }
+ul li a{
+  font-size: 18px;
+
+}
+section{
+  margin-top: 90px;
+}
+.background_text{
+  font-weight: 500;
+  font-size: 18px;
+}
+#works{
+  font-size: 18px;
+  margin-left: 20em;
+  line-height: 35px;
+
+}
+#impactstories_text{
+margin-left: 5em;
+text-align: center;
+ font-size: 38px;
+}
+}
